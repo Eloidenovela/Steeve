@@ -20,7 +20,7 @@ Steeve is a C++ program that allows remote access to a PC's terminal through Rem
 1. Clone the GitHub repository:
 
 ```bash
-git clone https://github.com/eloidenovela/steve.git
+git clone https://github.com/eloidenovela/steeve.git
 ```
 
 2. Navigate to the project directory:
