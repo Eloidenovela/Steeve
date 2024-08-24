@@ -1,6 +1,7 @@
 add_rules("mode.debug", "mode.release")
 
 target("Steeve/")
+    set_languages("c++20")
     set_kind("binary")
     add_files("src/*.cpp", "src/*/*.cpp")
 
